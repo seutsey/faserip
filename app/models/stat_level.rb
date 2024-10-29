@@ -1,0 +1,2 @@
+class StatLevel < ApplicationRecord
+end
